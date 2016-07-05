@@ -1,0 +1,21 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "awye765"
+  },
+  "author": "alistair",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.4.2"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
